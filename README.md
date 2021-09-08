@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @luciano-wine
+- 👀 I’m interested in typescript ...
+- 🌱 I’m currently learning about SOLID principles..
